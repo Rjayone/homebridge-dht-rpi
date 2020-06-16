@@ -20,8 +20,9 @@
   "author": "Nick Veys",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/elixir-blue/homebridge-dht-rpi.git"
+    "url": "https://github.com/Rjayone/homebridge-dht-rpi.git"
   },
+  "homepage": "https://github.com/elixir-blue/homebridge-dht-rpi",
   "license": "BSD",
   "dependencies": {
     "node-dht-sensor": "0.4.2"
