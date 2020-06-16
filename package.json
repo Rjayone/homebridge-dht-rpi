@@ -1,6 +1,6 @@
 {
   "name": "homebridge-dht-rpi",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "Homebridge DHT11/22 plugin for Raspberry Pi",
   "main": "index.js",
   "scripts": {
@@ -24,6 +24,6 @@
   },
   "license": "BSD",
   "dependencies": {
-    "node-dht-sensor": "^0.0.34"
+    "node-dht-sensor": "0.4.2"
   }
 }
